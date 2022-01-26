@@ -7,7 +7,7 @@ The content of the text can be changed within the 'send_text.py' function. I
 have also included 'send_email.py' for sending emails. 
 
 To send the texts, I have found Twilio is the easiest messaging service. Sign up for a free account and you 
-get a free phone number and 15.00$ credit. Each text costs 0.0075$ so you get a lot of free texts and you cna upgrade later if you want.
+get a free phone number and 15.00$ credit. Each text costs 0.0075$ so you get a lot of free texts and you can upgrade later if you want.
 
 ## Here is a working example:
 
